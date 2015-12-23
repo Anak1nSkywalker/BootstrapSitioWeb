@@ -1,0 +1,5 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\BootstrapSitioWeb\BootstrapSitioWeb\bin\BootstrapSitioWeb.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\BootstrapSitioWeb\BootstrapSitioWeb\bin\BootstrapSitioWeb.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\BootstrapSitioWeb\BootstrapSitioWeb\obj\Debug\BootstrapSitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\BootstrapSitioWeb\BootstrapSitioWeb\obj\Debug\BootstrapSitioWeb.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\BootstrapSitioWeb\BootstrapSitioWeb\obj\Debug\BootstrapSitioWeb.pdb
